@@ -12,7 +12,7 @@ It is a website for registering volunteers in many events and manage them. I hav
 
 - HTML5
 - CSS3
-- Bootstrap4
+- Bootstrap5
 - React Bootstrap
 - React JS
 
